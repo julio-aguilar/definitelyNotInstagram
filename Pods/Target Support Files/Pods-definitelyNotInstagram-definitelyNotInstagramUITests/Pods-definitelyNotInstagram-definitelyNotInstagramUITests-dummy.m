@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_definitelyNotInstagram_definitelyNotInstagramUITests : NSObject
+@end
+@implementation PodsDummy_Pods_definitelyNotInstagram_definitelyNotInstagramUITests
+@end
