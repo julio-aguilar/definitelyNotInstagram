@@ -8,6 +8,7 @@ target 'definitelyNotInstagram' do
   # Pods for definitelyNotInstagram
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
   target 'definitelyNotInstagramTests' do
     inherit! :search_paths
     # Pods for testing
