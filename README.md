@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/julio-aguilar/definitelyNotInstagram/blob/main/parseinstagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/julio-aguilar/definitelyNotInstagram/blob/main/notinstagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
